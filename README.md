@@ -1,2 +1,2 @@
 # First Repository
- My first repository
+ My first repository and is a simple test in Git and GitHub.
